@@ -1,6 +1,4 @@
-
-# Desafio 1
-## Localizando serviços por categorias
+# Localizando serviços por categorias
 Explore todos os conceitos abordados até aqui e escreva um resumo do que você aprendeu durante o desenvolvimento do lab. Para concluir este desafio, você deverá entregar o link de um repositório no GitHub contendo um arquivo README com o seu resumo.
 
 ### Resumo
