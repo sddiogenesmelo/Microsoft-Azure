@@ -6,5 +6,11 @@ Repositório para criação de resumos e rascunhos para consulta como também pa
 
 ### Conceitos iniciais de cloud com Azure
 
-  1. Localizando serviços por categorias
-  2. Criando maquinas virtuais no Azure
+  1. Introdução a computação em nuvem
+  2. Benefícios da nuvem Azure
+  3. Localizando serviços por categorias
+  4. Criando maquinas virtuais no Azure
+
+## Módulo 2
+
+  1. Arquitetura e serviços do Azure
