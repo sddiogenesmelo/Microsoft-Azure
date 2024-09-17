@@ -2,4 +2,9 @@
 
 Repositório para criação de resumos e rascunhos para consulta como também para entrega de desafios DIO.
 
-Data 17/09/2024 entregue o primeiro desafio 1.
+## Modulo 1
+
+### Conceitos iniciais de cloud com Azure
+
+  1. Localizando serviços por categorias
+  2. Criando maquinas virtuais no Azure
